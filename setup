@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+apt-get install -y git
+
+git clone https://github.com/devster/dotfiles.git dotfiles/
+
+cd dotfiles
+
+./install.sh
