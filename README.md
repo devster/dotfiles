@@ -9,3 +9,7 @@ or clone the repository and:
 ```
 ./install.sh
 ```
+
+## TODO
+
+* Install pip
