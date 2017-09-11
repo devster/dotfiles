@@ -15,3 +15,5 @@ or clone the repository and:
 * docker: add docker-compose and configure docker without sudo
 * Install pip
 * basic packages: build-essential g++
+* nodejs
+* php-cli + psysh (php REPL)
