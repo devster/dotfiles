@@ -13,3 +13,4 @@ or clone the repository and:
 ## TODO
 
 * Install pip
+* basic packages: build-essential g++
