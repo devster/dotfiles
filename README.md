@@ -12,5 +12,6 @@ or clone the repository and:
 
 ## TODO
 
+* docker: add docker-compose and configure docker without sudo
 * Install pip
 * basic packages: build-essential g++
