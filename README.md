@@ -18,3 +18,4 @@ or clone the repository and:
 * nodejs
 * php-cli + psysh (php REPL)
 * add aliases to clean docker: https://gist.github.com/mlebkowski/471d2731176fb11e81aa#file-cleanup-docker-sh
+* sudo apt-get install redis-tools
