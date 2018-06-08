@@ -13,6 +13,6 @@
     ci = commit
     co = checkout
     br = branch
-    oups = !git add -A . && git commit --amend && git push -f
+    oups = !git add -A . && git commit --amend && git push --force-with-lease
 [push]
     default = simple
