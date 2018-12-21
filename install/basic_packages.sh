@@ -13,10 +13,10 @@ apt-get install -y \
     xclip \
     htop \
     tree \
-    baobab \
     pwgen \
     shellcheck \
-    unattended-upgrades
+    unattended-upgrades \
+    build-essential
 
 cat > /etc/apt/apt.conf.d/20auto-upgrades <<EOL
 APT::Periodic::Update-Package-Lists "1";
